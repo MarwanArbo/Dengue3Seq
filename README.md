@@ -46,7 +46,7 @@ Utilisation
 bash
 python3 primer_mapping.py primers.tsv reference.fasta [autre_genome1.fasta autre_genome2.fasta ...]
 Le premier génome fourni est traité comme la référence principale (utilisée pour générer le diagramme).
-Tout génome supplémentaire est testé avec le même jeu d'amorces, sans diagramme associé (résultats affichés en console uniquement).
+Tout génome supplémentaire est testé avec le même jeu d'amorces.
 Exemple
 bash
 efetch -db nucleotide -id "MH544651.1" -format fasta > MH544651_ref.fasta
