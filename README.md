@@ -1,6 +1,8 @@
 # Dengue3S-quen-age
 
-Vérification d'appariement d'amorces — Schéma DENV-3 (CDC / CNR Guyane)
+#Plot visuel pour observer la profondeur de séquençage par amplicon sur la référence (plot_depthv2.py)
+
+#Vérification d'appariement d'amorces — Schéma DENV-3 (CDC / CNR Guyane) et production d'une figure amplicon sur réf en fonction des positions (PrimerMappingv11)
 
 Script Python de vérification informatique de l'appariement d'un schéma d'amorces PCR multiplexées (amplicons tuilés) sur un génome de référence
 
